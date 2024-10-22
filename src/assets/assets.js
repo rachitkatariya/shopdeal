@@ -54,8 +54,9 @@ import p_img50 from './p_img50.png'
 import p_img51 from './p_img51.png'
 import p_img52 from './p_img52.png'
 
-
-import logo from './logo.png';
+import ananya1 from './ananya1.webp'
+import ananya2 from './ananya2.webp'
+import logo from './logo.png'
 import hero_img from './hero_img.png'
 import cart_icon from './cart_icon.png'
 import bin_icon from './bin_icon.png'
@@ -75,6 +76,8 @@ import stripe_logo from './stripe_logo.png'
 import cross_icon from './cross_icon.png'
 
 export const assets = {
+    ananya1,
+    ananya2,
     logo,
     hero_img,
     cart_icon,
